@@ -28,4 +28,4 @@ Windows based toolkit -->
 <h2>API-VERSION</h2>
 <br>
 In this version, You have upload the you voice to want to clone(speaker's english voice) to a website<br>
-we recommened huggingface<br>
+we recommened huggingface.<br>
