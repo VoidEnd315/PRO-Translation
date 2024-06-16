@@ -22,7 +22,7 @@ Windows based toolkit -->
 <h2>HOW-TO-USE</h2>
 <br>
 0. RUNTIME SHOULD BE ON GPU.<br>
-1. Frist audio file should be ~15 second english speakering voice of speaker(or those you want to cloned).<br>
+1. First audio file should be ~15 seconds long in english language.(in the voice to be cloned).<br>
 2. Upload non-english video with only single speaker.<br>
 3. Read the instructions and run each cell one by one.<br>
 <h2>API-VERSION</h2>
