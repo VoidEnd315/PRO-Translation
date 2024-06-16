@@ -11,7 +11,7 @@ import requests
 import threading
 import subprocess
 
-pt1="C:/Users/AKASH V A/Documents/projectfolder/path_config1.txt" 
+pt1="projectfolder/path_config1.txt" 
 
 def start_recording():
     # Define the recording parameters
@@ -77,7 +77,7 @@ def start_recording():
     
 
    
-pt2="C:/Users/AKASH V A/Documents/projectfolder/path_config2.txt"
+pt2="/projectfolder/path_config2.txt"
 
 
 def start_video_recording():
