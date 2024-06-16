@@ -15,10 +15,6 @@ We used Open AI's <a href="https://github.com/openai/whisper">Whisper AI</a><br>
 We don't own any of this above programs.<br>
 We seriallized these to produce resultant easier😇.<br>
 <br>
-<h2>Gui-toolkit</h2>
-<br>
-Windows based toolkit -->
-<br>
 <h2>HOW-TO-USE</h2>
 <br>
 0. RUNTIME SHOULD BE ON GPU.<br>
